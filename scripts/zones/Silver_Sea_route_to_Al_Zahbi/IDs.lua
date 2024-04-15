@@ -18,8 +18,9 @@ zones[xi.zone.SILVER_SEA_ROUTE_TO_AL_ZAHBI] =
         FISHING_MESSAGE_OFFSET        = 7058, -- You can't fish here.
         DOCKING_IN_AL_ZAHBI           = 7318, -- We are now docking in Al Zahbi.
         NEARING_AL_ZAHBI              = 7319, -- We are nearing Al Zahbi.
+        ON_WAY_TO_AL_ZAHBI            = 7317, -- We are on our way to Al Zahbi. We should arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (# [minute/minutes] in Earth time).
         YAHLIQ_SHOP_DIALOG            = 7321, -- You've picked the best place to shop for your items, guaranteed!
-        ON_WAY_TO_AL_ZAHBI            = 7322, -- We are on our way to Al Zahbi. We will be arriving soon.
+        ARRIVING_SOON_AL_ZAHBI        = 7322, -- We are on our way to Al Zahbi. We will be arriving soon.
     },
     mob =
     {

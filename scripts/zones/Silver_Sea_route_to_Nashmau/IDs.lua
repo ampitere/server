@@ -18,8 +18,9 @@ zones[xi.zone.SILVER_SEA_ROUTE_TO_NASHMAU] =
         FISHING_MESSAGE_OFFSET        = 7058, -- You can't fish here.
         DOCKING_IN_NASHMAU            = 7318, -- We are now docking in Nashmau.
         NEARING_NASHMAU               = 7319, -- We are nearing Nashmau.
+        ON_WAY_TO_NASHMAU             = 7317, -- We are on our way to Nashmau. We should arrive in [less than an hour/about 1 hour/about 2 hours/about 3 hours/about 4 hours/about 5 hours/about 6 hours/about 7 hours] (# [minute/minutes] in Earth time).
         JIDWAHN_SHOP_DIALOG           = 7321, -- Would you care for some items to use on your travels?
-        ON_WAY_TO_NASHMAU             = 7322, -- We are on our way to Nashmau. We will be arriving soon.
+        ARRIVING_SOON_NASHMAU         = 7322, -- We are on our way to Nashmau. We will be arriving soon.
     },
     mob =
     {
