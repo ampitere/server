@@ -466,6 +466,12 @@ bool CTargetFind::validEntity(CBattleEntity* PTarget)
         return false;
     }
 
+    // Targets pets and current target is pet
+    if ((m_targetFlags & TARGET_PET) && PTarget->objtype == TYPE_PET)
+    {
+        return true;
+    }
+
     // shouldn't add if target is charmed by the enemy
     if (PTarget->PMaster != nullptr)
     {
