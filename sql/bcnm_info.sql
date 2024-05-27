@@ -267,7 +267,7 @@ INSERT INTO `bcnm_info` VALUES (1153,67,'shadows_of_the_mind','nobody',0,1800,18
 INSERT INTO `bcnm_info` VALUES (1154,67,'beast_within','nobody',0,600,600,99,1,0,6,0);
 INSERT INTO `bcnm_info` VALUES (1155,67,'moment_of_truth','nobody',0,1800,1800,0,6,0,7,0);
 INSERT INTO `bcnm_info` VALUES (1156,67,'puppet_in_peril','nobody',0,1800,1800,99,6,0,5,0);
-INSERT INTO `bcnm_info` VALUES (1184,78,'rider_cometh','nobody',0,900,900,0,6,0,5,0);
+INSERT INTO `bcnm_info` VALUES (1184,78,'the_rider_cometh','nobody',0,900,900,0,6,0,5,0);
 INSERT INTO `bcnm_info` VALUES (1290,38,'nw_apollyon','nobody',0,1800,1800,0,18,0,7,0);
 INSERT INTO `bcnm_info` VALUES (1291,38,'sw_apollyon','nobody',0,1800,1800,0,18,0,7,0);
 INSERT INTO `bcnm_info` VALUES (1292,38,'ne_apollyon','nobody',0,1800,1800,0,18,0,7,0);

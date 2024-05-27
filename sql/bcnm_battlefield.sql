@@ -1286,6 +1286,10 @@ INSERT INTO `bcnm_battlefield` VALUES (1122,3,17039392,2);
 INSERT INTO `bcnm_battlefield` VALUES (1122,3,17039393,2);
 INSERT INTO `bcnm_battlefield` VALUES (1124,1,17039400,3); -- shield_of_diplomacy
 INSERT INTO `bcnm_battlefield` VALUES (1156,1,17051694,3); -- puppet_in_peril
+INSERT INTO `bcnm_battlefield` VALUES (1184,1,17097298,3); -- the rider cometh
+INSERT INTO `bcnm_battlefield` VALUES (1184,1,17097299,0); -- the rider cometh
+INSERT INTO `bcnm_battlefield` VALUES (1184,1,17097300,0); -- the rider cometh
+INSERT INTO `bcnm_battlefield` VALUES (1184,1,17097301,0); -- the rider cometh
 
 -- //////////////////////////////////////////////////////////////
 --               APOLLYON  SE

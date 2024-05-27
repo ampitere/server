@@ -5051,7 +5051,19 @@ INSERT INTO `mob_spell_lists` VALUES ('Sarcopsylla',505,176,1,255); -- firaga_ii
 INSERT INTO `mob_spell_lists` VALUES ('Sarcopsylla',505,204,1,255); -- flare (1~255)
 INSERT INTO `mob_spell_lists` VALUES ('Sarcopsylla',505,235,1,255); -- burn (1~255)
 
--- Next Available: 506
+-- Odin Prime (508)
+INSERT INTO `mob_spell_lists` VALUES ('Odin_Prime',508,56,1,255);  -- slow (1~255)
+INSERT INTO `mob_spell_lists` VALUES ('Odin_Prime',508,58,1,255);  -- paralyze (1~255)
+INSERT INTO `mob_spell_lists` VALUES ('Odin_Prime',508,80,1,255);  -- paralyze_ii (1~255)
+INSERT INTO `mob_spell_lists` VALUES ('Odin_Prime',508,254,1,255); -- blind (1~255)
+INSERT INTO `mob_spell_lists` VALUES ('Odin_Prime',508,274,1,255); -- sleepga_ii (1~255)
+INSERT INTO `mob_spell_lists` VALUES ('Odin_Prime',508,356,1,255); -- paralyga (1~255)
+INSERT INTO `mob_spell_lists` VALUES ('Odin_Prime',508,357,1,255); -- slowga (1~255)
+INSERT INTO `mob_spell_lists` VALUES ('Kam_Lanaut',508,359,1,255); -- silencega (1~255)
+INSERT INTO `mob_spell_lists` VALUES ('Odin_Prime',508,360,1,255); -- dispelga (1~255)
+INSERT INTO `mob_spell_lists` VALUES ('Odin_Prime',508,361,1,255); -- blindga (1~255)
+
+-- Next Available: 509
 
 /*!40000 ALTER TABLE `mob_spell_lists` ENABLE KEYS */;
 UNLOCK TABLES;

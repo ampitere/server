@@ -4102,8 +4102,8 @@ INSERT INTO `mob_groups` VALUES (83,1927,78,'Helmwige',0,128,0,0,0,68,72,0);
 INSERT INTO `mob_groups` VALUES (84,3062,78,'Ortlinde',0,128,0,0,0,68,72,0);
 INSERT INTO `mob_groups` VALUES (85,1815,78,'Grimgerde',0,128,0,0,0,68,72,0);
 INSERT INTO `mob_groups` VALUES (86,4279,78,'Waltraute',0,128,0,0,0,68,72,0);
-INSERT INTO `mob_groups` VALUES (87,0,78,'Odin_Prime',0,128,0,0,0,0,0,0);
-INSERT INTO `mob_groups` VALUES (88,0,78,'Odin_Image',0,128,0,0,0,0,0,0);
+INSERT INTO `mob_groups` VALUES (87,6961,78,'Odin_Prime',0,128,0,20000,0,80,80,0);
+INSERT INTO `mob_groups` VALUES (88,7076,78,'Odin_Image',0,128,0,2300,0,78,78,0);
 INSERT INTO `mob_groups` VALUES (89,2941,78,'Odin',0,128,0,0,0,85,90,0);
 
 -- ------------------------------------------------------------

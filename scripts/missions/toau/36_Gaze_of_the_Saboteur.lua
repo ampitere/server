@@ -24,7 +24,7 @@ mission.sections =
 
         [xi.zone.HAZHALM_TESTING_GROUNDS] =
         {
-            ['_260'] =
+            ['Entry_Gate'] =
             {
                 onTrigger = function(player, npc)
                     if player:getMissionStatus(mission.areaId) == 1 then
